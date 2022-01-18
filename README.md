@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chosungsu&fontSize=90)
 
 ## Skill Stacks
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]()
+<img src="https://img.shields.io/badge/Android Studio-black?style=flat&logo=Android Studio&logoColor=#3DDC84"/>
+
 ## Today insights
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchosungsu&count_bg=%2379C83D&title_bg=%23EA5353&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## My Github works
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosungsu&show_icons=true&theme=radical)
