@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=#3DDC84"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
-  <img src="https://img.shields.io/badge/Android Studio-black?style=flat&logo=Android Studio&logoColor=#3DDC84"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=#3776AB"/>
   <br>
 </div>
 
