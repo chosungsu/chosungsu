@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
   <img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=#3776AB"/>
   <br>
+  <img src="https://img.shields.io/badge/Java-gray?style=flat&logo=Java&logoColor=#007396"/>
+  <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=#3776AB"/>
+  <br>
 </div>
 
 
