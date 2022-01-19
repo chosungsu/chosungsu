@@ -16,18 +16,23 @@ Here are some ideas to get you started:
 
 ## Skill Stacks
 <div align="center">
-  <img src="https://img.shields.io/badge/Android Studio-gray?style=flat&logo=Android Studio&logoColor=#3DDC84"/>
-  <img src="https://img.shields.io/badge/Visual Studio-gray?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-gray?style=flat&logo=Visual Studio Code&logoColor=#007ACC"/>
-  <img src="https://img.shields.io/badge/RStudio-gray?style=flat&logo=RStudio&logoColor=#75AADB"/>
-  <img src="https://img.shields.io/badge/Jupyter-gray?style=flat&logo=Jupyter&logoColor=#F37626"/>
+  <p>Tools</p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Android Studio-gray?style=flat&logo=Android Studio&logoColor=#3DDC84"/>
+    <img src="https://img.shields.io/badge/Visual Studio-gray?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-gray?style=flat&logo=Visual Studio Code&logoColor=#007ACC"/>
+    <img src="https://img.shields.io/badge/RStudio-gray?style=flat&logo=RStudio&logoColor=#75AADB"/>
+    <img src="https://img.shields.io/badge/Jupyter-gray?style=flat&logo=Jupyter&logoColor=#F37626"/>
+  </div>
   <br>
-  <img src="https://img.shields.io/badge/Java-gray?style=flat&logo=Java&logoColor=#007396"/>
-  <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=#3776AB"/>
-  <img src="https://img.shields.io/badge/R-gray?style=flat&logo=R&logoColor=#276DC3"/>
-  <img src="https://img.shields.io/badge/C-gray?style=flat&logo=C&logoColor=#A8B9CC"/>
-  <br>
+  <p>Languages</p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Java-gray?style=flat&logo=Java&logoColor=#007396"/>
+    <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
+    <img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=#3776AB"/>
+    <img src="https://img.shields.io/badge/R-gray?style=flat&logo=R&logoColor=#276DC3"/>
+    <img src="https://img.shields.io/badge/C-gray?style=flat&logo=C&logoColor=#A8B9CC"/>
+  </div>
 </div>
 
 ## My Github works
