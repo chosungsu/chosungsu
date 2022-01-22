@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 
 ## My Github works
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosungsu&show_icons=true&theme=radical)
+
+## My Portpolio
+[Notion Portpolio|노션 포트폴리오 탐색](https://grateful-orchid-a4a.notion.site/Jo-Sung-Su-s-Portfolio-fb3d5ee8315a418f84c6679ac3b0b737)
