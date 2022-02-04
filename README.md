@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   <p>Tools</p>
   <div align="center">
     <img src="https://img.shields.io/badge/Android-gray?style=flat&logo=Android&logoColor=#3DDC84"/>
-    <img src="https://img.shields.io/badge/Visual Studio-gray?style=flat&logo=Visual Studio&logoColor=#5C2D91"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-gray?style=flat&logo=Visual Studio Code&logoColor=#007ACC"/>
     <img src="https://img.shields.io/badge/RStudio-gray?style=flat&logo=RStudio&logoColor=#75AADB"/>
     <img src="https://img.shields.io/badge/Jupyter-gray?style=flat&logo=Jupyter&logoColor=#F37626"/>
