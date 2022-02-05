@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   <p>Tools</p>
   <div align="center">
     <img src="https://img.shields.io/badge/Android-gray?style=flat&logo=Android&logoColor=#3DDC84"/>
+    <img src="https://img.shields.io/badge/MySQL-gray?style=flat&logo=MySQL&logoColor=#4479A1"/>
     </br>
-    <img src="https://img.shields.io/badge/Android-gray?style=flat&logo=Android&logoColor=#3DDC84"/>
+    <img src="https://img.shields.io/badge/Anaconda-gray?style=flat&logo=Anaconda&logoColor=#44A833"/>
     <img src="https://img.shields.io/badge/RStudio-gray?style=flat&logo=RStudio&logoColor=#75AADB"/>
     <img src="https://img.shields.io/badge/Jupyter-gray?style=flat&logo=Jupyter&logoColor=#F37626"/>
   </div>
