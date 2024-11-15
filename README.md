@@ -12,32 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chosungsu&fontSize=90)
 
-## Skill Stacks
-<div align="center">
-  <p>Tools</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Android-gray?style=flat&logo=Android&logoColor=#3DDC84"/>
-    <img src="https://img.shields.io/badge/MySQL-gray?style=flat&logo=MySQL&logoColor=#4479A1"/>
-    </br>
-    <img src="https://img.shields.io/badge/Anaconda-gray?style=flat&logo=Anaconda&logoColor=#44A833"/>
-    <img src="https://img.shields.io/badge/RStudio-gray?style=flat&logo=RStudio&logoColor=#75AADB"/>
-    <img src="https://img.shields.io/badge/Jupyter-gray?style=flat&logo=Jupyter&logoColor=#F37626"/>
-  </div>
-  <br>
-  <p>Languages</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Java-gray?style=flat&logo=Java&logoColor=#007396"/>
-    <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
-    <img src="https://img.shields.io/badge/Python-gray?style=flat&logo=Python&logoColor=#3776AB"/>
-    <img src="https://img.shields.io/badge/R-gray?style=flat&logo=R&logoColor=#276DC3"/>
-    <img src="https://img.shields.io/badge/C-gray?style=flat&logo=C&logoColor=#A8B9CC"/>
-  </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Chosungsu&fontSize=70&fontColor=ffffff" alt="header" width="99.5%">
+
+## My Experience in Github
+<div style="text-align: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chosungsu&theme=react" alt="Profile Details" width="99.5%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chosungsu&theme=react" alt="Stats" width="49.7%"/> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chosungsu&theme=react" alt="Repos per Language" width="49.7%"/> 
 </div>
-
-## My Github works
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosungsu&show_icons=true&theme=radical)
-
-## My Portpolio
-[Notion Portpolio|노션 포트폴리오 탐색](https://grateful-orchid-a4a.notion.site/Jo-Sung-Su-s-Portfolio-fb3d5ee8315a418f84c6679ac3b0b737)
